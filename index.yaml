@@ -3,7 +3,16 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-06T13:18:27.087593372+07:00
+    created: 2018-09-07T14:52:58.363347473+07:00
+    description: A Helm chart for Kubernetes
+    digest: c62ed2bfbd4624b8fe04d2d60ea1c76c314d84c34140ef985290a4087a6cc960
+    name: nginx
+    urls:
+    - nginx-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-09-07T14:52:58.362537995+07:00
     description: A Helm chart for Kubernetes
     digest: 2216670e436379a4a58c32d92356d7a6a48141eb0baf93714e8ada957f7a1c5d
     name: nginx
@@ -12,7 +21,7 @@ entries:
     version: 0.1.4
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-06T13:18:27.087282313+07:00
+    created: 2018-09-07T14:52:58.361724719+07:00
     description: A Helm chart for Kubernetes
     digest: 9d7455f88a44ec445c031b6cb7f99ed20e142028260ab0c62083a993fa15ca71
     name: nginx
@@ -21,7 +30,7 @@ entries:
     version: 0.1.3
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-06T13:18:27.086413197+07:00
+    created: 2018-09-07T14:52:58.36086363+07:00
     description: A Helm chart for Kubernetes
     digest: 3062f41d3545929a5a014c51f070fcc267c198371ad3bf136b5a8382d41e1840
     name: nginx
@@ -30,7 +39,7 @@ entries:
     version: 0.1.2
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-06T13:18:27.085609781+07:00
+    created: 2018-09-07T14:52:58.360099352+07:00
     description: A Helm chart for Kubernetes
     digest: 8ebaa06beb9769d366391b8d5c55ece8b5d7c0cc3c11cbdccc306c2869c74a79
     name: nginx
@@ -39,11 +48,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-09-06T13:18:27.084829832+07:00
+    created: 2018-09-07T14:52:58.359327169+07:00
     description: A Helm chart for Kubernetes
     digest: ffc744f68ec85e335869db718e0c8005f009aadebbaa1993abd94a50e84f2283
     name: nginx
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: 2018-09-06T13:18:27.083906051+07:00
+generated: 2018-09-07T14:52:58.357944812+07:00
